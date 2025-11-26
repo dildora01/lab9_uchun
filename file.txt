@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 # lab9_ucun
 # lab9_ucun
-#1 Abdurahimov Jahongir
+
+=======
+Dilmurod Tuxtanazarov
+>>>>>>> upstream/main
+Jahongir Abdurahimov
